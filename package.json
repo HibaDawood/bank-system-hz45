@@ -1,0 +1,44 @@
+{
+  "name": "oop-my-bank-hz45",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Account Management",
+    "Transactions",
+    "Deposit",
+    "Withdrawal",
+    "Balance Inquiry",
+    "Statement",
+    "Account Number",
+    "Account Holder",
+    "Encryption",
+    "Multi-factor Authentication (MFA)",
+    "User Interface (UI)",
+    "User Experience (UX)",
+    "Online Banking",
+    "Mobile Banking",
+    "Credit Score",
+    "Customer Service",
+    "Regulatory Requirements",
+    "KYC (Know Your Customer)"
+  ],
+  "author": "Hiba M.Dawood",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.21",
+    "oop-my-bank-hz45": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/faker": "^6.6.9",
+    "@types/inquirer": "^9.0.7",
+    "faker": "^6.6.6"
+  }
+}
