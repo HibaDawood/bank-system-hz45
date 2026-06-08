@@ -1,4 +1,5 @@
 # 🏦 OOP Console Bank System
+[![npm version](https://img.shields.io/npm/v/oop-my-bank-hz45.svg?style=flat-square)](https://www.npmjs.com/package/oop-my-bank-hz45)
 
 A TypeScript/Node.js CLI-based banking application built using Object-Oriented Programming (OOP) principles. It simulates real-world banking operations directly in the terminal with a colorful, interactive user interface.
 
@@ -23,14 +24,9 @@ A TypeScript/Node.js CLI-based banking application built using Object-Oriented P
 
 ---
 
-## 🚀 How to Run
+### 🚀 How to Run & Use
 
-1. Clone this repository to your local machine.
-2. Install the required dependencies:
-   ```bash
-   npm install
-
-3. Compile and run the CLI application:
+Run this application directly in your terminal using `npx` (No installation required):
 
 ```bash
-npx tsc && node index.js
+npx oop-my-bank-hz45
